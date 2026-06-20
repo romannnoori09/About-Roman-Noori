@@ -46,7 +46,7 @@ Currently learning:
 - Tested Windows environments
 
 
-### TrueNAS Storage Lab
+### [TrueNAS Storage Lab]( https://github.com/romannnoori09/TrueNAS-Storage-Lab)
 - Configured network storage
 - Practiced storage management
 - Learned NAS concepts
