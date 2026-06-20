@@ -26,7 +26,7 @@ Currently learning:
 - Configured DNS and DHCP
 
 
-### FortiGate Firewall Lab
+### [FortiGate Firewall Lab]( https://github.com/romannnoori09/FortiGAte-Firewall-Lab)
 - Configured firewall rules
 - Practiced network security concepts
 - Tested routing and filtering
