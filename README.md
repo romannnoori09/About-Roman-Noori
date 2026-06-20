@@ -33,14 +33,10 @@ Currently learning:
 - Learned VPN concepts
 
 
-### Cisco Packet Tracer Network Lab
-- Designed enterprise/school network
-- Created VLANs
-- Configured switches and routing
-- Practiced DHCP and network troubleshooting
 
 
-### Proxmox Virtualization Lab
+
+### [Proxmox Virtualization Lab]( https://github.com/romannnoori09/Proxmox-Virtualization-Lab)
 - Created virtual machines
 - Managed server resources
 - Tested Windows environments
@@ -51,6 +47,13 @@ Currently learning:
 - Practiced storage management
 - Learned NAS concepts
 
+
+
+### Cisco Packet Tracer Network Lab
+- Designed enterprise/school network
+- Created VLANs
+- Configured switches and routing
+- Practiced DHCP and network troubleshooting
 
 ## 🛠️ Skills
 
