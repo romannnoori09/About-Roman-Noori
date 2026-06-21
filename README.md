@@ -2,6 +2,9 @@
 
 IT Support / Networking student building hands-on skills through home labs.
 
+Resume: [📄 View My Resume]([https://github.com](https://drive.google.com/file/d/1c5HF5j_ljhYRFK6v6gDGF98mzMVYkVc2/view?usp=sharing))
+
+
 I am interested in:
 - IT Support
 - System Administration
