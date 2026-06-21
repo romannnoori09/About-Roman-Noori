@@ -36,7 +36,7 @@ Currently learning:
 
 
 
-### [Proxmox Virtualization Lab]( https://github.com/romannnoori09/Proxmox-Virtualization-Lab)
+### [Proxmox And ESXi Virtualization Lab]( https://github.com/romannnoori09/Proxmox-Virtualization-Lab)
 - Created virtual machines
 - Managed server resources
 - Tested Windows environments
