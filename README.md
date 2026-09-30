@@ -2,7 +2,7 @@
 
 IT Support / Networking student building hands-on skills through home labs.
 
-Resume: [📄 View My Resume](https://drive.google.com/file/d/1c5HF5j_ljhYRFK6v6gDGF98mzMVYkVc2/view?usp=sharing)
+Resume: [📄 View My Resume](file:///C:/Users/roman/OneDrive/Desktop/Roman%20Noori%20-%20IT%20Technician%20Resume.pdf)
 
 
 
